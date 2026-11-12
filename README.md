@@ -18,7 +18,7 @@ which loans are overdue.
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username-or-org>/library-management-system.git
+git clone https://github.com/<HussainahTechie>/library-management-system.git
 cd library-management-system
 ```
 
